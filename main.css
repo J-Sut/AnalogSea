@@ -1,0 +1,58 @@
+body {
+	background-color: #298eea; 
+	font-family: sans-serif;	
+}
+
+main {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px 40px; 
+	text-align: center;
+	width: 400px;
+}
+
+img {
+	height: 35px;
+}
+
+h1 {
+	padding: 15px 15px;
+	text-align: center;
+}
+
+form {
+		background-color: white;
+		padding-left: 40px; 
+		padding-right: 40px;
+		padding-bottom: 40px;
+		text-align: left;
+}
+
+input {
+	padding: 14px;
+	width: 290px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+button{
+	width: 320px;
+	text-align: center;
+	background-color: mediumseagreen;
+	color: white;
+	padding: 15px;
+	font-size: 16px;
+	cursor: hover; 
+}
+
+button a:hover {
+	background: green;
+}
+
+.pwrecover {
+	color: lightgrey;
+	text-align: center;
+}
+
+.have_login, .have_login a{
+	color: white;
+}
